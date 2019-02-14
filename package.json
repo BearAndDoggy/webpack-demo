@@ -1,0 +1,38 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^8.0.5",
+    "css-loader": "^2.1.0",
+    "cssnano": "^4.1.9",
+    "leancloud-storage": "^3.11.1",
+    "postcss-import": "^12.0.1",
+    "postcss-preset-env": "^6.5.0",
+    "style-loader": "^0.23.1",
+    "webpack-cli": "^3.2.3"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^7.1.0",
+    "webpack": "^4.29.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BearAndDoggy/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BearAndDoggy/resume/issues"
+  },
+  "homepage": "https://github.com/BearAndDoggy/resume#readme"
+}
